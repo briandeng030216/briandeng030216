@@ -5,13 +5,13 @@
 I am an applied mathematics researcher interested in using statistical learning, machine learning, and context-aware modeling to study decision-making and performance in sports.
 
 <!-- Add your preferred public contact links below. -->
-**Contact:** [Email](dwhbrian@163.com)
+**Email:** dwhbrian@163.com
 
 ## Personal Background
 
-**Ningbo Solvi** - AI Algorithm Engineer | Feb. 2026 - Now
-**University of Washington** — M.S. in Applied and Computational Mathematics | Sep. 2024 - Dec. 2025  
-**University of California, San Diego** — B.S. in Applied Mathematics | Sep. 2021 - Jun. 2024
+- **Ningbo Solvi** - AI Algorithm Engineer | Feb. 2026 - Now
+- **University of Washington** — M.S. in Applied and Computational Mathematics | Sep. 2024 - Dec. 2025  
+- **University of California, San Diego** — B.S. in Applied Mathematics | Sep. 2021 - Jun. 2024
 
 ## Research Interests
 
